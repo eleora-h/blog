@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Code & Coffee
-email: eleora.hamming@gmail.com
+title: Coffee & Code
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I need to come up with a good description, which I probably won't.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  Probably should give this a better description...
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://eleora-h.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eslynn__
 github_username:  eleora-h
 
